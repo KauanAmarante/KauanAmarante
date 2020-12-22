@@ -1,7 +1,6 @@
 ## Kauan Amarante
 
 [![Twitter](https://img.shields.io/twitter/follow/KauanAmarante?label=KauanAmarante&logo=twitter&style=for-the-badge)](https://twitter.com/KauanAmarante)
-[![GitHub followers](https://img.shields.io/github/followers/KauanAmarante?label=KauanAmarante&logo=github&style=for-the-badge)](https://github.com/KauanAmarante)
 [![LinkedIn](https://img.shields.io/badge/-Kauan_Amarante-555?logo=linkedin&style=for-the-badge&logoColor=0077B5)](https://www.linkedin.com/in/igorbrites)
 
 
