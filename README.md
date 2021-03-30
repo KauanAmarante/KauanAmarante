@@ -1,5 +1,5 @@
 ## Kauan Amarante
-<img src="https://github.com/KauanAmarante/KauanAmarante/blob/master/images/Coding illustration.png" height="450" align="right">
+<img src="https://github.com/KauanAmarante/KauanAmarante/blob/master/images/Coding illustration.png" height="400" align="right">
 
 Hi! I'm Kauan! Welcome to my GitHub profile! :smile:
 
