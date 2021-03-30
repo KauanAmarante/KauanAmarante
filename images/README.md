@@ -1,1 +1,1 @@
-_ _Image available in [ls.graphics](https://ls.graphics/illustrations_)_ 
+ _Image available in [ls.graphics](https://ls.graphics/illustrations)_ 
