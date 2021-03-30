@@ -7,7 +7,7 @@ I'm an Data Engineer, currently working at [@ContaAzul](https://github.com/Conta
 
 [![LinkedIn](https://img.shields.io/badge/-Kauan_Amarante-555?logo=linkedin&style=for-the-badge&logoColor=0077B5)](https://www.linkedin.com/in/kauan-amarante)
 
-_Image available in [ls.graphics](https://ls.graphics/illustrations)_
+
 
 <!--
 **KauanAmarante/KauanAmarante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
