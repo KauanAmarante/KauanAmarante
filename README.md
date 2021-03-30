@@ -1,15 +1,17 @@
 ## Kauan Amarante
-
-
-<img src="https://github.com/KauanAmarante/KauanAmarante/blob/master/images/Coding illustration.png" align="right" height="300">
-
+<p align="right">
+  <img src="https://github.com/KauanAmarante/KauanAmarante/blob/master/images/Coding illustration.png" height="300">
+</p>
+<p align="right">
+  <em>Image available in <a href="https://ls.graphics/illustrations">ls.graphics</a></em>
+</p>
 Hi! I'm Kauan! Welcome to my GitHub profile! :smile:
 
 I'm an Data Engineer, currently working at [@ContaAzul](https://github.com/ContaAzul).
 
 [![LinkedIn](https://img.shields.io/badge/-Kauan_Amarante-555?logo=linkedin&style=for-the-badge&logoColor=0077B5)](https://www.linkedin.com/in/kauan-amarante)
 
-Image available in [ls.graphics](https://ls.graphics/illustrations)
+
 <!--
 **KauanAmarante/KauanAmarante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
