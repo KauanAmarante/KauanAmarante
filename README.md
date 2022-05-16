@@ -3,7 +3,7 @@
 
 Hi! I'm Kauan! Welcome to my GitHub profile! :smile:
 
-I'm an Data Engineer, currently working at [@Méliuz](https://github.com/meliuz).
+I'm an Data Engineer, currently working at [@meliuz](https://github.com/meliuz).
 
 [![LinkedIn](https://img.shields.io/badge/-Kauan_Amarante-555?logo=linkedin&style=for-the-badge&logoColor=0077B5)](https://www.linkedin.com/in/kauan-amarante)
 
