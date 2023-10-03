@@ -1,9 +1,10 @@
 ## Kauan Amarante
-<img src="https://github.com/KauanAmarante/KauanAmarante/blob/master/images/Coding illustration.png" height="400" align="right">
-
 Hi! I'm Kauan! Welcome to my GitHub profile! :smile:
 
 I'm an Data Engineer.
+
+[![An image of @kauanamarante's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kauanamarante)](https://holopin.io/@kauanamarante)
+
 
 [![LinkedIn](https://img.shields.io/badge/-Kauan_Amarante-555?logo=linkedin&style=for-the-badge&logoColor=0077B5)](https://www.linkedin.com/in/kauan-amarante)
 
